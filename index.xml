@@ -386,7 +386,42 @@ date: 2019-09-01
 &lt;pre>&lt;code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code>&lt;/pre>
 &lt;h2 id="example">Example&lt;/h2>
-&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Impressum</title><link>https://ajfriesen.github.io/elimu-bora/terms/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>https://ajfriesen.github.io/elimu-bora/terms/</guid><description>&lt;p>Add your terms here and set &lt;code>draft: false&lt;/code> to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p></description></item><item><title>External Project</title><link>https://ajfriesen.github.io/elimu-bora/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://ajfriesen.github.io/elimu-bora/project/external-project/</guid><description/></item><item><title>Internal Project</title><link>https://ajfriesen.github.io/elimu-bora/project/internal-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://ajfriesen.github.io/elimu-bora/project/internal-project/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Allgemeine Geschäftsbedingungen</title><link>https://ajfriesen.github.io/elimu-bora/agb/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>https://ajfriesen.github.io/elimu-bora/agb/</guid><description>&lt;h1 id="1-asdf">§1 asdf&lt;/h1>
+&lt;p>Jede menge text&lt;/p></description></item><item><title>Datenschutzerklärung</title><link>https://ajfriesen.github.io/elimu-bora/privacy/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>https://ajfriesen.github.io/elimu-bora/privacy/</guid><description>&lt;p>Add your privacy policy here and set &lt;code>draft: false&lt;/code> to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p></description></item><item><title>Du möchtest Mitglied werden?</title><link>https://ajfriesen.github.io/elimu-bora/membership/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>https://ajfriesen.github.io/elimu-bora/membership/</guid><description>
+&lt;figure id="figure-schaukel-mit">
+&lt;a data-fancybox="" href="https://ajfriesen.github.io/elimu-bora/elimu-bora/img/boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" data-caption="Schaukel mit">
+&lt;img src="https://ajfriesen.github.io/elimu-bora/elimu-bora/img/boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" alt="" >
+&lt;/a>
+&lt;figcaption>
+Schaukel mit
+&lt;/figcaption>
+&lt;/figure>
+&lt;p>Das ist ganz einfach.&lt;/p>
+&lt;p>Als Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen.
+Es ist auch Möglich nur ein stilles Mitglied sein möchtest ist das auch in Ordnung.&lt;/p>
+&lt;p>Mit deiner Mitgliedschaft erklärst du dich Bereit, dass wir dich in unser Mitglieder Verzeichnis aufnehmen.
+Du kannst auch freiwillig hier auf der Seite gelistet werden (LINK)&lt;/p>
+&lt;/br>
+&lt;h2 id="kosten">Kosten&lt;/h2>
+&lt;ul>
+&lt;li>30 € im Jahr&lt;/li>
+&lt;li>Jährlich kündbar&lt;/li>
+&lt;li>per Lastschrift&lt;/li>
+&lt;/ul>
+&lt;/br>
+&lt;h2 id="mitgliedantrag-herunterladen">Mitgliedantrag herunterladen&lt;/h2>
+&lt;ol>
+&lt;li>Formular herunterladen&lt;/li>
+&lt;li>Mit einem PDF Reader ausfüllen und unterschreiben&lt;/li>
+&lt;li>Die per E-Mail an folgende Adresse schicken
+&lt;a href="mailto:heeringtheresa@gmail.com?subject=[Mitgliedsantrag]">heeringtheresa@gmail.com&lt;/a>&lt;/li>
+&lt;li>Du erhälst von uns zeitnah eine bestätigung deiner Mitgliedschaft&lt;/li>
+&lt;/ol>
+&lt;div class="alert alert-note">
+&lt;div>
+Zum bearbeiten des PDFs benutzen Sie am besten den kostenlosen &lt;a href="https://get.adobe.com/de/reader/">Adobe Reader&lt;/a>.
+&lt;/div>
+&lt;/div></description></item><item><title>Impressum</title><link>https://ajfriesen.github.io/elimu-bora/terms/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate><guid>https://ajfriesen.github.io/elimu-bora/terms/</guid><description>&lt;p>Add your terms here and set &lt;code>draft: false&lt;/code> to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p></description></item><item><title>External Project</title><link>https://ajfriesen.github.io/elimu-bora/project/external-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://ajfriesen.github.io/elimu-bora/project/external-project/</guid><description/></item><item><title>Internal Project</title><link>https://ajfriesen.github.io/elimu-bora/project/internal-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://ajfriesen.github.io/elimu-bora/project/internal-project/</guid><description>&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
 &lt;p>Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p>
 &lt;p>Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p>
