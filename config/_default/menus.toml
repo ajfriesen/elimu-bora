@@ -5,12 +5,12 @@
 
 [[main]]
   name = "Home"
-  url = "/"
+  url = ""
   weight = 10
 
 [[main]]
   name = "Mitgliedschaft"
-  url = "/membership"
+  url = "membership"
   weight = 20
 
 [[main]]
@@ -20,22 +20,22 @@
 
 [[main]]
   name = "Blog"
-  url = "/blog"
+  url = "blog"
   weight = 40
 
 [[main]]
   name = "Team"
-  url = "/team"
+  url = "team"
   weight = 50
 
 [[main]]
   name = "Kontakt"
-  url = "/contact"
+  url = "contact"
   weight = 60
 
 [[main]]
   name = "AGB"
-  url = "/agb"
+  url = "agb"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
