@@ -3,9 +3,9 @@
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Skills"
+title = "Ziele"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -15,21 +15,35 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Bildung"
+  description = "Nicht nur Schulbildung, sondern auch weiterführende Wissensvermittlung"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "hands-helping"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Hilfe zur Selbsthilfe"
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "solar-panel"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Energie"
+  description = "Unsterstützung für autoarke Stromversorgung"
+
+[[feature]]
+  icon = "stethoscope"
+  icon_pack = "fas"
+  name = "Gesundheit"
+  description = "Ausbildung im Bereich Gesundheitswesen"
+  
+[[feature]]
+  icon = "school"
+  icon_pack = "fas"
+  name = "Schulenbau"
+  description = ""
+
+
 
 +++
