@@ -7,9 +7,8 @@
   * Add blog post to ```elimu-bora/content/post```
   * Add projects to ```elimu-bora/content/project```
 3. Render the page locally:
-
-```hugo serve --buildDrafts --buildFuture```
-
+  1. Terminal -> Run Task -> hugo: Serve draft sit
+  2. A terminal will open and you can follow the link [http://localhost:1313/elimu-bora/](http://localhost:1313/elimu-bora/)
 4. Stage your changes
 5. Add a commit message
 6. Commit
