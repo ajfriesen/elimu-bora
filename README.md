@@ -11,9 +11,10 @@
 ```hugo serve --buildDrafts --buildFuture```
 
 4. Stage your changes
-5. Commit
-6. Push/Sync
-7. Wait a few seconds to see the changes online (fully automated)
+5. Add a commit message
+6. Commit
+7. Push/Sync
+8. Wait a few seconds to see the changes online (fully automated)
 
 ## Ecosystem
 
