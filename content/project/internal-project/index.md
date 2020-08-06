@@ -1,10 +1,10 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Mädcheninternat Secondary School Mashati
+summary: Ein Recht auf Bildung, auch für Mädchen. Oft werden lange Schulwege und Vergewaltigungen zum Grund für Schulabbrecherinnen. Doch wer keine abgeschlossene Schulbildung genießen durfte hat es später doppelt schwer.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
+date: "2020-08-06T00:00:00Z"
+authors: ["theresa"]
+draft: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +30,10 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Aufstehen im Stockfinsteren, noch vor 5 Uhr und dann Losgehen zur Schule. Die meisten der Mädchen in der Mashati Secondary School brauchen kein Licht um zu wissen, wo sie ihre Füße hinsetzen müssen, denn sie gehen diesen Weg jeden Tag. 
+Und jeden Tag ist der Weg gefährlich: Natürlich nicht nur wegen der Tiere. Auf diesen Schulwegen sind die jungen Mädchen Vergewaltigungen, Erpressungen und Abhängigkeiten durch ihre eigene Armut regelrecht ausgeliefert. Und Mashati ist hier kein Einzelphänomen. 
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Eines der Projekte, dem sich EliOra Tanzania nach intensiven Gesprächen vor Ort angenommen hat, ist der Bau eines Mädcheninternats auf dem Gelände der Mashati Secondary School. Nun fragst du dich wahrscheinlich: Warum braucht eine bereits bestehende Schule wie die Mashati Secondary School einen weiteren Anbau? Kann man nicht dort helfen, wo wirklich Bedarf besteht? Das stimmt, aber vor allem die Gespräche mit Lehrerinnen und Lehrern sowie mit dem Direktor der Schule hat uns aufhorchen lassen:
+viele Mädchen kommen unregelmäßig oder gar nicht mehr zum Unterricht, weil der Weg zur Schule zu unsicher ist oder weil sie im Mächenalter schwanger geworden sind. Das ist nicht nur ein Risiko für die werdenden, teils sehr jungen Mütter und ihren weiteren Lebensweg, in dem sie nicht auf eigenen Beinen stehen können. Nicht selten haben die Kinder dieser jungen Mütter ein erhöhtes Risiko als Straßenkinder zu enden.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Somit ist das Ziel, ein Mädcheninternat auf dem Gelände der Mashati Secondary School zu erbauen gewachsen, damit die Mädchen unter der Woche dort schlafen, essen und ungestört lernen können und die Risiken des langen Schulwegs reduziert werden.
