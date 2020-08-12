@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ich unterstütze den Verein bei allen Fragen rund um die IT (Website, Mail etc.), weil ich mit meiner Expertise helfen kann die Vision von EliOra nach außen zu tragen.
 
 # interests:
 # - Webseite
@@ -69,9 +69,8 @@ user_groups:
 - Ehrenamt
 ---
 
-Andrej Friesen hilft dem Verein zu allen technischen Fragen.
-Beruflich ist er seit einigen Jahren...
-lakjsdfölkasjdfölkjasdölkfjasölkdjf
+Andrej Friesen hilft dem Verein bei allen technischen Fragen.
+Beruflich ist er selbst seit einigen Jahren in der IT tätig und unterstützt EliOra mit seiner Expertise.
 
 Aufgaben:
 
