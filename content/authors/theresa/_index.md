@@ -58,6 +58,4 @@ Interessen:
 - Gärtnern
 - Triathlon
 - Musik & Konzerte
-- Kunst & Malereibo/Mashi bereits selbst an der Primary School Erfahrung im Rahmen eines Sprachpraktikums sammeln konnte.
-
-
+- Kunst & Malerei
