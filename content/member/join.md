@@ -57,9 +57,9 @@ Das ist ganz einfach. Lade dir einfach folgendes Forulmar herunter und fülle di
 Schicke es per Post oder Mail an....
 
 Als Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen.
-Es ist auch Möglich nur ein stilles Mitglied sein möchtest ist das auch in Ordnung.
+Es ist auch Möglich nur ein stilles Mitglied zu sein.
 
-Mit deiner Mitgliedschaft erklärst du dich Bereit, dass wir dich in unser Mitglieder Verzeichnis aufnehmen.
-Du kannst auch freiwillig hier auf der Seite gelitet werden (LINK)
+Mit deiner aktiven Mitgliedschaft erklärst du dich bereit, dass wir dich in unser Mitgliederverzeichnis aufnehmen, du bekommst regelmäßige Infos rund um die anstehenden Projekte und bist bei der Mitgliederversammlung dabei, um den Verein aktiv mitzugestalten.
+Wenn du möchtest, kannst du dich auch freiwillig hier auf der Seite mit allen anderen Unterstützern listen lassen werden (LINK)
 
 
