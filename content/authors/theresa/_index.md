@@ -20,11 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ich unterstütze EliOra, weil mir nachhaltige Hilfe zur Selbsthilfe in betroffenen Regionen sehr am Herzen liegt.
 
-interests:
-- Triathlon
-- Gärtnern
-- Musik & Konzerte
-- Kunst & Malerei
+# interests:
+# - Triathlon
+# - Gärtnern
+# - Musik & Konzerte
+# - Kunst & Malerei
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,4 +52,11 @@ user_groups:
 - Vorstand
 ---
 
-Ich unterstütze EliOra, weil mir nachhaltige Hilfe zur Selbsthilfe in betroffenen Regionen sehr am Herzen liegt und ich in der Region Rombo/Mashi bereits selbst an der Primary School Erfahrung im Rahmen eines Sprachpraktikums sammeln konnte.
+Ich unterstütze EliOra, weil mir nachhaltige Hilfe zur Selbsthilfe in betroffenen Regionen sehr am Herzen liegt und ich in der Region Rom- Triathlon
+
+Interessen:
+- Gärtnern
+- Musik & Konzerte
+- Kunst & Malereibo/Mashi bereits selbst an der Primary School Erfahrung im Rahmen eines Sprachpraktikums sammeln konnte.
+
+
