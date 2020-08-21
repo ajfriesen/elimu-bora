@@ -52,10 +52,11 @@ user_groups:
 - Vorstand
 ---
 
-Ich unterstütze EliOra, weil mir nachhaltige Hilfe zur Selbsthilfe in betroffenen Regionen sehr am Herzen liegt und ich in der Region Rom- Triathlon
+Ich unterstütze EliOra, weil mir nachhaltige Hilfe zur Selbsthilfe in betroffenen Regionen sehr am Herzen liegt und ich in der Region Rombo/Mashi bereits selbst an der Primary School Erfahrung im Rahmen eines Sprachpraktikums sammeln konnte.
 
 Interessen:
 - Gärtnern
+- Triathlon
 - Musik & Konzerte
 - Kunst & Malereibo/Mashi bereits selbst an der Primary School Erfahrung im Rahmen eines Sprachpraktikums sammeln konnte.
 
