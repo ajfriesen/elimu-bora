@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Ich bin Ärztin für Mikrobiologie und Infektionsepidemiologie und Ärztin für Hygiene und Umweltmedizin.
 
 # interests:
 # - Artificial Intelligence
@@ -41,10 +41,10 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:britthornei@t-online.de'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -68,3 +68,21 @@ email: ""
 user_groups:
 - Vorstand
 ---
+Ich unterstütze EliOra, weil Afrika für mich nicht nur ein
+Sehnsuchtsort ist, sondern mich vor allem die Menschen
+faszinieren. Obwohl die Bedingungen nicht einfach sind, ist
+der Zusammenhalt untereinander und die Lebensfreude groß,
+aber auch das Bestreben das Beste aus dem Vorhandenen
+zu machen und zumindest für die Kinder die
+Lebensverhältnisse zu verbessern. Erfahrung und
+Wissenschaft zeigen, dass die nachhaltigste Verbesserung
+durch Bildung erreicht werden kann. Und mit wenigen Mitteln
+kann viel erreicht werden; das habe ich selbst vor Ort in den
+Schulen in Rhombo und im Huruma Institue of Health and
+Allied Sciences erlebt.
+
+Interessen:
+- Literatur
+- Naturerlebnisse
+- Kunst & Malerei
+- Musik & Konzerte

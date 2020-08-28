@@ -41,10 +41,10 @@ bio:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:carolinejankowski@gmx.de'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -68,4 +68,14 @@ email: ""
 user_groups:
 - Vorstand
 ---
+Durch meine Geburt in Botswana wurde mir die Liebe zum afrikanischen Kontinent in die Wiege gelegt. Ich konnte bei verschiedene Reisen und Praktika diverse Eindrücke sammeln und möchte den Menschen vor Ort durch die Arbeit von EliOra Möglichkeiten bieten um Dinge zu verändern und zu verbessern. 
+
+Interessen:
+- Zeit mit meinem Kind und meinem Mann verbringen
+- American Football spielen
+- Entspannen bei der Gartenarbeit
+- Gesellschaftsspiele
+- Reisen & Kulturen kennen lernen
+
+
 
