@@ -18,8 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Diplom-Agrarbiologe, Referent und Dozent in der beruflichen Fortbildung der
-professionellen Rasenbranche und Professor für Nachhaltiges Rasenmanagement
+bio: Diplom-Agrarbiologe, Referent und Dozent in der beruflichen Fortbildung der professionellen Rasenbranche und Professor für Nachhaltiges Rasenmanagement
 
 # interests:
 # - Artificial Intelligence
