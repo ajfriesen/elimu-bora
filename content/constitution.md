@@ -14,7 +14,7 @@ editable: false
 
 ## § 1 Name, Sitz, Eintragung, Geschäftsjahr
 
-1. Der Verein trägt den Namen “Elimu Bora - Hand in Hand e.V.”.
+1. Der Verein trägt den Namen “EliOra - Hand in Hand e.V.”.
 2. Er hat den Sitz in Köln (Grüner Weg 1, 50859 Köln)
 3. Er ist in das Vereinsregister beim Amtsgericht in Köln eingetragen.
 

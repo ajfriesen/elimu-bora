@@ -14,10 +14,11 @@ editable: false
 
 {{< figure library="false" src="boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" title="Schaukel mit" lightbox="true" >}}
 
-Das ist ganz einfach.
+Das ist ganz einfach:
+Hier findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
 
-Als Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen.
-Es ist auch Möglich nur ein stilles Mitglied sein möchtest ist das auch in Ordnung.
+Als EliOra Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen veranstalten wir Workshops um in Kleingruppen Pläne zu schmieden, die dann verwirklicht werden.
+Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat den Verein und die Projekte lebendig mizugestalten.
 
 Mit deiner Mitgliedschaft erklärst du dich Bereit, dass wir dich in unser Mitglieder Verzeichnis aufnehmen.
 Du kannst auch freiwillig hier auf der Seite gelistet werden (LINK)
@@ -26,9 +27,10 @@ Du kannst auch freiwillig hier auf der Seite gelistet werden (LINK)
 
 ## Kosten
 
-- 30 € im Jahr
-- Jährlich kündbar
-- per Lastschrift
+- 40 € im Jahr
+- jährlich kündbar
+- einfache Zahlung per Lastschrift
+
 
 </br>
 

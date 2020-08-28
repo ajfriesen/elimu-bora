@@ -53,5 +53,5 @@ hero_media = "hero-academic.png"
 
 **Gute Bildung für Alle**
 
-EliOra steht für "Gute Bildung" auf Kiswahili.
-Wir setzen uns für Projekte in Tanzania ein.
+EliOra ist ein gemeinnütziger Verein und steht mit seinem Namen für das Ziel des Vereins: "Gute Bildung", auf Kiswahili, der Landessprache Tanzanias "Elimu Bora".
+Wir setzen uns für Bildungsprojekte in Tanzania ein.
