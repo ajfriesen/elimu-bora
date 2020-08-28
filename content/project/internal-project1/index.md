@@ -1,15 +1,15 @@
 ---
 title: Haruma Health Training Institut
-summary: Regelmäßige Besuche als Gastdozent und Unterstützung im fachlichen Wissensaufbau
+summary: Regelmäßige Besuche als Gastdozent und Unterstützung im fachlichen Wissensauf- und Ausbau
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
-draft: true
+draft: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Haruma Health Training Institut
   focal_point: Smart
 
 links:

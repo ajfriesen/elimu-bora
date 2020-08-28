@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "EliOra Tanzania - Hand in Hand e.V."
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "hero-academic.png"
+hero_media = "EliOra_Logo_Final.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
