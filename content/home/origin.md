@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Der Verein EliOra Tanzania wurde 2020 in Köln gegründet. EliOra ist eine Abkürzung für den Kiswahili Begriff "Elimu Bora", zu deutsch "gute Bildung", und setzt sich gemeinnützig für verschiedene Projekte in Tanzania, Ostafrika ein. Der Fokus liegt hierbei nicht nur auf der Schulbildung im klassischen Sinn, sondern soll viel weitreichender als "Bildung als Lebensgrundlage" verstanden werden. Dazu gehören neben den teilweise bereits laufenden Schulprojekten auch die Wissensvermittlung im Bereich der erneuerbaren Energien (unabhängige Stromversorgung durch Solarzellen) und Natur Wissen, sowie die Aus- und Weiterbildung im Bereich Gesundheitswesen. 
+Der Verein EliOra Tanzania wurde 2020 in Köln gegründet. EliOra ist eine Abkürzung für den Kiswahili Begriff "Elimu Bora", zu deutsch "gute Bildung", und setzt sich gemeinnützig für verschiedene Projekte in Tanzania/ Ostafrika ein. Der Fokus liegt hierbei nicht nur auf der Schulbildung im klassischen Sinn, sondern soll viel weitreichender als "Bildung als Lebensgrundlage" verstanden werden. Dazu gehören neben den teilweise bereits laufenden Schulprojekten auch die Wissensvermittlung im Bereich der erneuerbaren Energien (unabhängige Stromversorgung durch Solarzellen) und lokalen Naturkunde, sowie die Aus- und Weiterbildung im Bereich Gesundheitswesen. 
 
 
-Durch die langjährige Verbindung und Initialzündung der Unterstützungsidee im Jahr 2013, sowie einer Partnerorganisation in Mashati (Rombo), am Fuße des Kilimanjaro, ist das Vertrauensverhältnis vor allem durch ein "Hand in Hand" gehen beider Organisationen geprägt.
+Durch die langjährige Verbindung nach Mashati am Fuße des Kilimanjaro und der Initialzündung der Unterstützungsidee im Jahr 2013, ist das Vertrauensverhältnis vor allem durch ein "Hand in Hand" gehen beider Organisationen geprägt.

@@ -18,32 +18,37 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Bildung"
-  description = "Nicht nur Schulbildung, sondern auch weiterführende Wissensvermittlung"
+  description = "Nicht nur in der Schule, sondern auch darüber hinaus"
   
 [[feature]]
   icon = "hands-helping"
   icon_pack = "fas"
   name = "Hilfe zur Selbsthilfe"
-  description = ""  
+  description = "Wir wollen helfen, die Grundlagen für Selbsthilfe zu schaffen"  
   
 [[feature]]
   icon = "solar-panel"
   icon_pack = "fas"
-  name = "Energie"
+  name = "Unabhängige Energieversorgung"
   description = "Unsterstützung für autoarke Stromversorgung"
 
 [[feature]]
   icon = "stethoscope"
   icon_pack = "fas"
-  name = "Gesundheit"
-  description = "Ausbildung im Bereich Gesundheitswesen"
+  name = "Wissensausbau Gesundheit"
+  description = "Aus- und Weiterbildung im Bereich Gesundheitswesen"
   
 [[feature]]
   icon = "school"
   icon_pack = "fas"
-  name = "Schulenbau"
-  description = ""
+  name = "Schulbau"
+  description = "Hilfe zur Verbesserung der Grundausstattung in Schulen"
 
+[[feature]]
+  icon = "pagelines"
+  icon_pack = "fab"
+  name = "Naturkunde"
+  description = "Hilfe zur Wissensvermittlung über die nationale Natur"
 
 
 +++
