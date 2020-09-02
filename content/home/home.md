@@ -53,5 +53,5 @@ hero_media = "EliOra_Logo_Final.png"
 
 **Gute Bildung für Alle**
 
-EliOra Tanzania ist ein gemeinnütziger Verein der  mit seinem Namen für das erklärte Vereinsziel steht: "Gute Bildung", auf Kiswahili, der Landessprache Tanzanias "Elimu Bora".
-Wir setzen uns in verschiedenen Bildungsprojekten in Tanzania für nachhaltiges Helfen ein.
+EliOra Tanzania ist ein gemeinnütziger Verein, der mit seinem Namen für das erklärte Vereinsziel steht: "Gute Bildung". Auf Kiswahili, der Landessprache Tanzanias, setzt sich der Begriff aus den Worten "Elimu Bora" zusammen.
+Wir setzen uns in verschiedenen Bildungsprojekten Tanzanias für nachhaltiges Helfen ein.
