@@ -34,8 +34,8 @@
   weight = 60
 
 [[main]]
-  name = "AGB"
-  url = "agb"
+  name = "Impressum"
+  url = "impressum"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
