@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Kontakt"
-subtitle = "Ihr wollt uns schreiben?"
+subtitle = "Ihr wollt uns schreiben? Wir freuen uns über Nachrichten, Frangen, Anmerkungen und Feedback"
 
 # Automatically link email and phone?
 autolink = true

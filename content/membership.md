@@ -20,8 +20,7 @@ Hier findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück sc
 Als EliOra Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen veranstalten wir Workshops um in Kleingruppen Pläne zu schmieden, die dann verwirklicht werden.
 Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat den Verein und die Projekte lebendig mizugestalten.
 
-Mit deiner Mitgliedschaft erklärst du dich Bereit, dass wir dich in unser Mitglieder Verzeichnis aufnehmen.
-Du kannst auch freiwillig hier auf der Seite gelistet werden (LINK)
+Mit deiner Mitgliedschaft erklärst du dich bereit, dich in unser Mitglieder Verzeichnis aufnehmen zu lassen.
 
 </br>
 
@@ -38,7 +37,7 @@ Du kannst auch freiwillig hier auf der Seite gelistet werden (LINK)
 
 1. Formular herunterladen
 2. Mit einem PDF Reader ausfüllen und unterschreiben
-3. Die per E-Mail an folgende Adresse schicken [heeringtheresa@gmail.com](mailto:heeringtheresa@gmail.com?subject=[Mitgliedsantrag])
+3. Die per E-Mail an folgende Adresse schicken [elioratanzania@gmail.com](mailto:elioratanzania@gmail.com?subject=[Mitgliedsantrag])
 4. Du erhälst von uns zeitnah eine bestätigung deiner Mitgliedschaft
 
 
