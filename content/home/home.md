@@ -41,7 +41,7 @@ hero_media = "EliOra_Logo_Final.png"
   label = "Mitglied werden"
   icon_pack = "fas"
   icon = "users"
-  
+
 [cta_alt]
   url = "constitution"
   label = "Zur Satzung"
