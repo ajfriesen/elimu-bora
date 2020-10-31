@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Unterstützer"
-subtitle = "Eine nicht immer aktuelle Liste von Unterstützern"
+subtitle = "Wir unterstützen EliOra"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,9 +51,7 @@ subtitle = "Eine nicht immer aktuelle Liste von Unterstützern"
 +++
 
 
-{{% alert warning %}}
-Die Auflistung hier ist natürlich nur freiwillig
-{{% /alert %}}
 
-- Max Mustermann
-- Erika Musterfrau
+
+- Norman Jankowski & vierfingerfilm
+- 

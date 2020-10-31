@@ -42,4 +42,4 @@ Durch privates Engagement einiger EliOra Mitglieder gelang die Bohrung eines Bru
 
 2018/2019 folgten Projekte in Zusammenarbeit mit "Ärzte ohne Grenzen", die sich um eine stabile Stromversorgung einiger Secondary Schools im Bezirk Rhombo kümmerten, sowie die Wasserqualität aus Brunnen vor Ort prüften.
 
-Seit 2013 ermöglichen viele Freiwillige & private Spender die Zusammenarbeit mit Schulen und Bildungseinrichtungen in Mashati/Rhombo und etablierten eine sehr vertrauensvolle Beziehung zu Stephen Moshi, einem pensionierten Schul-Bezirksleiter, der in der Region hervorragend vernetzt und engagiert ist.
+Seit 2013 ermöglichen viele Freiwillige & private Spender die Zusammenarbeit mit Schulen und Bildungseinrichtungen in Mashati/Rombo und etablierten eine sehr vertrauensvolle Beziehung zu Stephen Moshi, einem pensionierten Schul-Bezirksleiter, der in der Region hervorragend vernetzt und engagiert ist.
