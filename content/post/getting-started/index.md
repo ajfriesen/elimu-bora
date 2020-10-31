@@ -1,14 +1,14 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
+title: 'Asante EliOra'
+subtitle: 'XXXXXXXXXX'
+summary: Ein Danke ist oft mehr wert als alles Materielle.
 authors:
-- admin
+- theresa
 tags:
 - Academic
 categories:
 - Demo
-date: "2016-04-20T00:00:00Z"
+date: "2020-10-31T"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
 draft: true

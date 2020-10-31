@@ -26,7 +26,7 @@ Mit deiner Mitgliedschaft erklärst du dich bereit, dich in unser Mitglieder Ver
 
 ## Kosten
 
-- 40 € im Jahr
+- 40 € im Jahr bzw. 25 € für Studenten/Schüler/Rentner
 - jährlich kündbar
 - einfache Zahlung per Lastschrift
 

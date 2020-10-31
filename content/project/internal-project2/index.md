@@ -1,6 +1,6 @@
 ---
 title: Was vor der Vereinsgründung geschah...Projektarchiv (2013 - 2019) 
-summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dementsprechend viele Aspekte haben wir bereits anstoßen können, bis 2020 EliOra Tanzania gegründet wurde
+summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dementsprechend viele Aspekte haben wir bereits anstoßen können, bis 2020 auch offiziell der Verein EliOra Tanzania gegründet wurde
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
@@ -40,6 +40,6 @@ Nur wenig später bekam die Secondary School in Mashati 2016 Unterstützung (u.a
 
 Durch privates Engagement einiger EliOra Mitglieder gelang die Bohrung eines Brunnens im Haruma Health Institut in Rhombo für die Versorgung des Internats, welches an Wasserknappheit litt. 2018 wurde die Bibliothek ausgebaut und ausgestattet und EliOra Mitglied Britt Hornei gab als Ärztin vor Ort Untericht im Bereich Mikrobiologie und Infektionskontrolle.
 
-2018/2019 folgten Projekte in Zusammenarbeit mit "Ärzte ohne Grenzen", die sich um eine stabile Stromversorgung einiger Secondary Schools im Bezirk Rhobo kümmerten, sowie die Wasserqualität aus Brunnen vor Ort prüften.
+2018/2019 folgten Projekte in Zusammenarbeit mit "Ärzte ohne Grenzen", die sich um eine stabile Stromversorgung einiger Secondary Schools im Bezirk Rhombo kümmerten, sowie die Wasserqualität aus Brunnen vor Ort prüften.
 
 Seit 2013 ermöglichen viele Freiwillige & private Spender die Zusammenarbeit mit Schulen und Bildungseinrichtungen in Mashati/Rhombo und etablierten eine sehr vertrauensvolle Beziehung zu Stephen Moshi, einem pensionierten Schul-Bezirksleiter, der in der Region hervorragend vernetzt und engagiert ist.

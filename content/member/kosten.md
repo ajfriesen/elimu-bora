@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Kosten"
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Wir haben uns dazu entschieden den Mitgliedsbeitrag möglichst klein zu halten, damit jeder der Interesse mitmachen kann.
+Wir haben uns dazu entschieden den Mitgliedsbeitrag möglichst gering zu halten, damit jeder der Interesse mitmachen kann.
 Wenn du mehr spenden möchtest ist das natürlich jederzeit möglich.
 
 - 30 €/ Jahr

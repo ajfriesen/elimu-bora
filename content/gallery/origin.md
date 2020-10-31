@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Hier kannst du ein paar Bilder usnerer bisherigen Projekte anschauen.
+Hier kannst du ein wenig durch die Bilder unserer bisherigen Projekte stöbern.
