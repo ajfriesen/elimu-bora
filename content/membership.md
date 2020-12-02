@@ -44,7 +44,7 @@ Bei Fragen dazu wende dich jederzeit gerne an elioratanzania@gmail.com. Dort kan
 
 ## Mitgliedsantrag herunterladen
 
-1. Formular herunterladen
+1. Formular {{% staticref "files/Mitgliedsantrag.pdf" "newtab" %}}herunterladen{{% /staticref %}}
 2. Mit einem PDF Reader online ausfüllen ODER ausdrucken, händisch ausfüllen und unterschreiben
 3. Das ausgefüllte und unterschriebene Formular schickst du per E-Mail an folgende Adresse [elioratanzania@gmail.com](mailto:elioratanzania@gmail.com?subject=[Mitgliedsantrag]) oder per Post an die Adresse auf dem Formular.
 4. Du erhälst von uns zeitnah eine Bestätigung deiner Mitgliedschaft
