@@ -17,31 +17,35 @@ editable: false
 Das ist ganz einfach:
 Hier findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
 
-Als EliOra Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen veranstalten wir Workshops um in Kleingruppen Pläne zu schmieden, die dann verwirklicht werden.
-Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat den Verein und die Projekte lebendig mizugestalten.
+Als EliOra Mitglied hast du die Möglichkeit, aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen schmieden wir Pläne, die dann verwirklicht werden.
+Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat, den Verein und die Projekte lebendig mizugestalten.
 
-Mit deiner Mitgliedschaft erklärst du dich bereit, dich in unser Mitglieder Verzeichnis aufnehmen zu lassen.
+Mit deiner Mitgliedschaft schaffst du Planungssicherheit, um unsere Projekt langfristig aufzubauen und zu begleiten. Natürlich freuen wir uns auch über einmalige Spenden.
+
+
+
+erklärst du dich bereit, dich in unser Mitgliederverzeichnis aufnehmen zu lassen.
 
 </br>
 
 ## Kosten
 
-- 40 € im Jahr bzw. 25 € für Studenten/Schüler/Rentner
+- 40 € im Jahr bzw. 25 € für Studierende/SchülerInnen/RentnerInnen
 - jährlich kündbar
 - einfache Zahlung per Lastschrift
 
 
 </br>
 
-## Mitgliedantrag herunterladen
+## Mitgliedsantrag herunterladen
 
 1. Formular herunterladen
-2. Mit einem PDF Reader ausfüllen und unterschreiben
-3. Die per E-Mail an folgende Adresse schicken [elioratanzania@gmail.com](mailto:elioratanzania@gmail.com?subject=[Mitgliedsantrag])
-4. Du erhälst von uns zeitnah eine bestätigung deiner Mitgliedschaft
+2. Mit einem PDF Reader online ausfüllen ODER ausdrucken, händisch ausfüllen und unterschreiben
+3. Das ausgefüllte und unterschriebene Formular schickst du per E-Mail an folgende Adresse [elioratanzania@gmail.com](mailto:elioratanzania@gmail.com?subject=[Mitgliedsantrag]) oder per Post an die Adresse auf dem Formular.
+4. Du erhälst von uns zeitnah eine Bestätigung deiner Mitgliedschaft
 
 
 {{% alert note %}}
-Zum bearbeiten des PDFs benutzen Sie am besten den kostenlosen [Adobe Reader](https://get.adobe.com/de/reader/).
+Zum bearbeiten des PDFs kannst du am besten den kostenlosen [Adobe Reader](https://get.adobe.com/de/reader/) nutzen. Einfach herunterladen und unseren Mitgliedsantrag damit öffnen, ausfüllen und unterschreiben.
 {{% /alert %}}
 

@@ -4,7 +4,7 @@ summary: Regelmäßige Besuche als Gastdozent und Unterstützung im fachlichen W
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
-draft: false
+draft: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

@@ -30,7 +30,7 @@ subtitle = ""
   icon = "solar-panel"
   icon_pack = "fas"
   name = "Unabhängige Energieversorgung"
-  description = "Unsterstützung für autoarke Stromversorgung"
+  description = "Unterstützung für autarke Stromversorgung"
 
 [[feature]]
   icon = "stethoscope"

@@ -52,14 +52,6 @@ subtitle = ""
 
 {{< figure library="false" src="static/img/membership/boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" numbered="false" title="Bose SoundSport" lightbox="true" >}}
 
-Das ist ganz einfach. Lade dir einfach folgendes Forulmar herunter und fülle die Felder aus.
 
-Schicke es per Post oder Mail an....
-
-Als Mitglied hast du die Möglichkeit aktiv am Vereinsleben teilzunehmen.
-Es ist auch Möglich nur ein stilles Mitglied zu sein.
-
-Mit deiner aktiven Mitgliedschaft erklärst du dich bereit, dass wir dich in unser Mitgliederverzeichnis aufnehmen, du bekommst regelmäßige Infos rund um die anstehenden Projekte und bist bei der Mitgliederversammlung dabei, um den Verein aktiv mitzugestalten.
-Wenn du möchtest, kannst du dich auch freiwillig hier auf der Seite mit allen anderen Unterstützern listen lassen werden (LINK)
 
 
