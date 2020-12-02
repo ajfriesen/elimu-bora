@@ -43,8 +43,8 @@ hero_media = "EliOra_Logo_Final.png"
   icon = "users"
 
 [cta_alt]
-  url = "constitution"
-  label = "Zur Satzung"
+  url = "files/Mitgliedsantrag.pdf"
+  label = "Zum Mitgliedsantrag"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]

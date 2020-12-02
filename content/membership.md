@@ -15,16 +15,21 @@ editable: false
 {{< figure library="false" src="boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" title="Schaukel mit" lightbox="true" >}}
 
 Das ist ganz einfach:
-Hier findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
+{{% staticref "files/Mitgliedsantrag.pdf" "newtab" %}}Hier{{% /staticref %}} findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
 
 Als EliOra Mitglied hast du die Möglichkeit, aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen schmieden wir Pläne, die dann verwirklicht werden.
-Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat, den Verein und die Projekte lebendig mizugestalten.
+Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat, den Verein und die Projekte lebendig mizugestalten. Als Mitglied erklärst du dich bereit, dich in unser Mitgliederverzeichnis aufnehmen zu lassen.
 
-Mit deiner Mitgliedschaft schaffst du Planungssicherheit, um unsere Projekt langfristig aufzubauen und zu begleiten. Natürlich freuen wir uns auch über einmalige Spenden.
+Mit deiner Mitgliedschaft schaffst du Planungssicherheit, um unsere Projekt langfristig aufzubauen und zu begleiten. Aber natürlich freuen wir uns auch über einmalige Spenden auf folgendes Vereinskonto:
+
+EliOra Tanzania - Hand in Hand e.V.
+
+IBAN DE71 8306 5408 0004 2544 49
+
+BIC GENO DEF1 SLR
 
 
-
-erklärst du dich bereit, dich in unser Mitgliederverzeichnis aufnehmen zu lassen.
+Bei Fragen dazu wende dich jederzeit gerne an elioratanzania@gmail.com. Dort kannst du dich auch melden, wenn du zu deiner Spende eine Spendenquittung haben möchtest.
 
 </br>
 
