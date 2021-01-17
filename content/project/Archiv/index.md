@@ -1,6 +1,6 @@
 ---
 title: Was vor der Vereinsgründung geschah...Projektarchiv (2013 - 2019) 
-summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dementsprechend haben wir schon einige Projekte schon im Vorfeld anstoßen können, bevor in 2020 der Verein EliOra Tanzania gegründet wurde
+summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dementsprechend haben wir schon einige Projekte im Vorfeld anstoßen können, bevor in 2020 der Verein EliOra Tanzania gegründet wurde
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
