@@ -1,6 +1,6 @@
 ---
 title: Wildlife Project Nilimishe
-summary: Schüler lernen die eigene Natur kennen
+summary: Schüler_innen lernen die eigene Natur kennen
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
