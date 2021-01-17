@@ -4,7 +4,7 @@ summary: Regelmäßige Besuche als Gastdozent und Unterstützung im fachlichen W
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
-draft: true
+draft: false
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -29,3 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+Die Gesundheitsversorgung ist weltweit sehr unterschiedlich aufgebaut. In Tansania fehlt in vielen Bereichen sowohl das medizinische Material, als auch die Weitergabe von Fachwissen an das dortige Personal. Um diese Umstände zu verbessern, fördern wir die Arbeit des Huruma Health Centers sowohl durch Weiterbildungsprogramme als auch durch Materialspenden. Ein gutes Beispiel ist die Schulung zu Benutzung und Funktion von Defibrillatoren oder Weiterbildungen zum Thema Hygiene.

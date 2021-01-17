@@ -4,7 +4,7 @@ summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dements
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
-draft: false
+draft: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
