@@ -1,6 +1,6 @@
 ---
 title: Was vor der Vereinsgründung geschah...Projektarchiv (2013 - 2019) 
-summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dementsprechend viele Aspekte haben wir bereits anstoßen können, bis 2020 ganz offiziell der Verein EliOra Tanzania gegründet wurde
+summary: Die Deutsch-Tanzanische Freundschaft besteht bereits seit 2013. Dementsprechend haben wir schon einige Projekte schon im Vorfeld anstoßen können, bevor in 2020 der Verein EliOra Tanzania gegründet wurde
 tags:
 date: "2020-08-06T00:00:00Z"
 authors: ["theresa"]
@@ -36,10 +36,11 @@ Mit Fördermitteln der Jugendstiftung *Morgernsterne reisten Jugendliche der CAJ
 
 Ziel der Reise war es, im Sinne eines Workcamps in zwei verschiedenen Schulen (Kirua Rombo Primary School & Star High School in Mbuguni) durch die Arbeit der Jugendlichen ein kleines Stück Hilfe zu leisten und die (Lern-) Situation zu verbessern. Im Gegenzug hatten die Jugendlichen die Chance das Bildungssystem und die tanzanische Kultur und Natur näher kennenzulernen.
 
-Nur wenig später bekam die Secondary School in Mashati 2016 Unterstützung (u.a Eine Welt Gruppe & CAJ Schäl Sick) im Ausbau und der Ausstattung der Chemie, Physik und Biologie Labore. Diese Fertigstellung und Nutzung gilt mittlerweile als Vorzeigeprojekt in der Region.
+Nur wenig später (2016) bekam die Secondary School in Mashati weitere
+Unterstützung (u.a durch Eine Welt Gruppe und CAJ Schäl Sick) für den Ausbau und die Ausstattung der Chemie-, Physik- und Biologielabore. Deren Fertigstellung und Nutzung gilt mittlerweile als Vorzeigeprojekt in der Region.
 
-Durch privates Engagement einiger EliOra Mitglieder gelang die Bohrung eines Brunnens im Haruma Health Institut in Rhombo für die Versorgung des Internats, welches an Wasserknappheit litt. 2018 wurde die Bibliothek ausgebaut und ausgestattet und EliOra Mitglied Britt Hornei gab als Ärztin vor Ort Untericht im Bereich Mikrobiologie und Infektionskontrolle.
+Durch zusätzliches privates Engagement einiger EliOra Mitglieder gelang die Bohrung eines Brunnens im Haruma Health Institut in Rhombo. Die Versorgung des dortigen Internats mit gutem Trinkwasser wurde damit gesichert. In 2018 wurde die Bibliothek ausgebaut und weiter ausgestattet und EliOra Mitglied Dr.Britt Hornei gab als Ärztin vor Ort Unterricht im Bereich Mikrobiologie und Infektionskontrolle. 
 
-2018/2019 folgten Projekte in Zusammenarbeit mit "Ärzte ohne Grenzen", die sich um eine stabile Stromversorgung einiger Secondary Schools im Bezirk Rhombo kümmerten, sowie die Wasserqualität aus Brunnen vor Ort prüften.
+2018/2019 folgten Projekte in Zusammenarbeit mit "Ingenieure ohne Grenzen", die sich um eine stabile Stromversorgung einiger Secondary Schools im Bezirk Rhombo kümmerten, sowie die Wasserqualität aus Brunnen vor Ort prüften.
 
 Seit 2013 ermöglichen viele Freiwillige & private Spender die Zusammenarbeit mit Schulen und Bildungseinrichtungen in Mashati/Rombo und etablierten eine sehr vertrauensvolle Beziehung zu Stephen Moshi, einem pensionierten Schul-Bezirksleiter, der in der Region hervorragend vernetzt und engagiert ist.
