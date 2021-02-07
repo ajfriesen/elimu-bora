@@ -49,9 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Wir haben uns dazu entschieden den Mitgliedsbeitrag möglichst gering zu halten, damit jeder der Interesse mitmachen kann.
-Wenn du mehr spenden möchtest ist das natürlich jederzeit möglich.
-
-- 30 €/ Jahr
-- Jährlich kündbar zum ...

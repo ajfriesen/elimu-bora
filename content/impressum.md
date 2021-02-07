@@ -19,7 +19,7 @@ Theresa Heering<br>
 Caroline Jankowski<br>
 </p><p><strong>Kontakt:</strong> <br>
 Telefon: 0176-61309448<br>
-E-Mail: <a href='mailto:elioratanzania@gmail.com'>eliora-tanzania@gmail.com</a></br></p><p><strong>Registereintrag: </strong><br>
+E-Mail: <a href='mailto:elioratanzania@gmail.com'>elioratanzania@gmail.com</a></br></p><p><strong>Registereintrag: </strong><br>
 Eintragung im Registergericht: Köln<br>
 Registernummer: folgt<br></p><p><strong>Umsatzsteuer-ID: </strong> <br>
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: .<br><br>
