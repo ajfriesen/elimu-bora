@@ -21,8 +21,8 @@ Caroline Jankowski<br>
 Telefon: 0176-61309448<br>
 E-Mail: <a href='mailto:elioratanzania@gmail.com'>elioratanzania@gmail.com</a></br></p><p><strong>Registereintrag: </strong><br>
 Eintragung im Registergericht: Köln<br>
-Registernummer: folgt<br></p><p><strong>Umsatzsteuer-ID: </strong> <br>
-Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: .<br><br>
+Registernummer: VR 16496, Amtsgericht Köln<br></p><p><strong>Umsatzsteuer-ID: </strong> <br>
+Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: folgt.<br><br>
 </p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Theresa Heering <br> 
 Ulitzkastraße 4<br> 

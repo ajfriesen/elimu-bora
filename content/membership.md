@@ -17,6 +17,8 @@ editable: false
 Das ist ganz einfach:
 {{% staticref "files/Mitgliedsantrag.pdf" "newtab" %}}Hier{{% /staticref %}} findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
 
+Die Vereinssatzung findest du {{% staticref "files/Satzung.pdf" "newtab" %}}hier{{% /staticref %}}.
+
 Als EliOra Mitglied hast du die Möglichkeit, aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen schmieden wir Pläne, die dann verwirklicht werden.
 Das ist kein Muss, aber wir freuen uns über jeden Interessierten, der Lust hat, den Verein und die Projekte lebendig mizugestalten. Als Mitglied erklärst du dich bereit, dich in unser Mitgliederverzeichnis aufnehmen zu lassen.
 
@@ -29,7 +31,7 @@ IBAN DE71 8306 5408 0004 2544 49
 BIC GENO DEF1 SLR
 
 
-Bei Fragen dazu wende dich jederzeit gerne an elioratanzania@gmail.com. Dort kannst du dich auch melden, wenn du zu deiner Spende eine Spendenquittung haben möchtest.
+Bei Fragen dazu wende dich jederzeit gerne an elioratanzania@gmail.com. Dort kannst du dich auch melden, wenn du zu deiner einmaligen Spende eine Spendenquittung haben möchtest.
 
 </br>
 
