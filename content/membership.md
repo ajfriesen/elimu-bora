@@ -16,7 +16,6 @@ editable: false
 
 Das ist ganz einfach:
 {{% staticref "files/Mitgliedsantrag.pdf" "newtab" %}}Hier{{% /staticref %}} findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
-
 Die Vereinssatzung findest du {{% staticref "files/Satzung.pdf" "newtab" %}}hier{{% /staticref %}}.
 
 Als EliOra Mitglied hast du die Möglichkeit, aktiv am Vereinsleben teilzunehmen und unsere Projekte zu unterstützen. Im Rahmen von Mitgliederveranstaltungen schmieden wir Pläne, die dann verwirklicht werden.
