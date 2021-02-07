@@ -1,5 +1,5 @@
 ---
-title: Kooperation Freilichtmuseum Lindlar
+title: Kooperation Freilicht-museum Lindlar
 summary: Gestaltung eines Ausstellungsraumes zum Thema Schulbildung um die Jahrhundertwende, einschließlich des damaligen "Deutsch Ostafrikas" (jetzt Tanzania)
 tags:
 - Demo

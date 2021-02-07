@@ -1,5 +1,5 @@
 ---
-title: Mädcheninternat Secondary School Mashati
+title: Mädchen-internat Secondary School Mashati
 summary: Ein Recht auf Bildung, auch für Mädchen – lange, gefährliche Schulwege werden oft zum Grund, die Schule vorzeitig abzubrechen. Doch wer keine abgeschlossene Schulbildung genießen durfte, hat es später doppelt schwer.
 tags:
 date: "2020-08-06T00:00:00Z"
