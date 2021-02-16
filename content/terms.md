@@ -11,7 +11,7 @@ header:
   caption: ""
   image: "EliOra_Logo_Final.png"
 ---
-<div class='impressum'><h1>Impressum</h1><p>Angaben gemäß § 5 TMG</p><p>EliOra  Tanzania - Hand in Hand e.V. <br> 
+<div class='impressum'><h1></h1><p>Angaben gemäß § 5 TMG</p><p>EliOra  Tanzania - Hand in Hand e.V. <br> 
 Grüner Weg 1<br> 
 50859 Köln <br> 
 </p><p> <strong>Vertreten durch: </strong><br>
@@ -21,7 +21,7 @@ Caroline Jankowski<br>
 Telefon: 0176-61309448<br>
 E-Mail: <a href='mailto:eliora-tanzania@gmail.com'>elioratanzania@gmail.com</a></br></p><p><strong>Registereintrag: </strong><br>
 Eintragung im Registergericht: Köln<br>
-Registernummer: VR 16496 · Amtsgericht Köln <br>
+Registernummer: VR 20560 · Amtsgericht Köln <br>
 </p><p><strong>Umsatzsteuer-ID: </strong> <br>
 Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: folgt.<br><br>
 </p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
