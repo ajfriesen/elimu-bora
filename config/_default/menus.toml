@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Mitgliedschaft"
-  url = "mitgliedschaft"
+  url = "membership"
   weight = 20
 
 [[main]]
