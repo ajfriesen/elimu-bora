@@ -1,7 +1,7 @@
 ---
 title: 'Ein Wort genügt: Asante'
 subtitle: 'Carstens Eindrücke aus Mashati'
-summary: Ein Danke ist oft mehr wert als alles Materielle.
+summary: Ein Danke ist oft mehr wert als alles Materielle. Carsten Greaskes Eindrücke aus Mashati.
 authors:
 - Carsten Graeske
 tags:
@@ -11,7 +11,7 @@ categories:
 date: "2021-02-16T"
 lastmod: "2021-02-16T00:00:00Z"
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -19,8 +19,8 @@ draft: true
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  caption: 'Image credit: [**privat**]'
+  focal_point: "xxx"
   preview_only: false
 
 # Projects (optional).
