@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 Die Gesundheitsversorgung ist weltweit sehr unterschiedlich aufgebaut. In Tansania fehlt in vielen Bereichen sowohl das medizinische Material, als auch die Weitergabe von Fachwissen an das dortige Personal. Um diese Umstände zu verbessern, fördern wir die Arbeit des Huruma Health Centers sowohl durch Weiterbildungsprogramme als auch durch Materialspenden. 
 Das Huruma Institut ist eine staatlich anerkannte Ausbildungsstätte für Pflegekräfte und Krankenschwestern. Sie wird durch die Sisters of Lourdes betrieben, das Mutterhaus befindet sich in Moshi. Die Prinzipalin ist Schwester Clara Mushi. Der Kontakt wurde durch Stephen Moshi hergestellt, der sich als Boardmember einsetzt, um finanzielle und ideelle Unterstützung und Kooperationspartner bemüht.
