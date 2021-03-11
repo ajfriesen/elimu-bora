@@ -12,7 +12,7 @@ editable: false
 #   image: "boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg"
 ---
 
-{{< figure src="boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" caption="Schaukel mit">}}
+{{< figure src="swing.jpg" caption="Schaukel mit">}}
 
 Das ist ganz einfach:
 {{% staticref "files/Mitgliedsantrag.pdf" "newtab" %}}Hier{{% /staticref %}} findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
