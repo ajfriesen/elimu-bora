@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Britt Hornei
+title: Britt Hornei
 
 # Username (this should match the folder name)
 authors:

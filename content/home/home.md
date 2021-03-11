@@ -7,8 +7,8 @@ weight = 10  # Order that this section will appear.
 
 title = "EliOra Tanzania - Hand in Hand e.V."
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "EliOra_Logo_Final.png"
+# Hero image (optional). Enter filename of an image in the `static/media/` folder.
+hero_media = "logo.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = "EliOra_Logo_Final.png"
   gradient_end = "#126D23"
   
   # Background image.
-  image = "Cover_hp_Norman.jpg"  # Name of image in `static/img/`.
+  image = "background.jpg"  # Name of image in `static/media/`.
   image_darken = 0.5 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.

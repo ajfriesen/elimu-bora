@@ -47,7 +47,7 @@ org_name = "EliOra Tanzania - Hand in Hand e.V."
 description = "EliOra (Kiswahili Elimu Bora) heißt gute Bildung - für alle. Als Grundstein für ein selbstbestimmtes Leben."
 
 # Display a logo in navigation bar rather than title (optional).
-#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
+#   To enable, place an image in `static/media/` and reference its filename below. To disable, set the value to "".
 logo = "logo.png"
 
 ############################
@@ -121,7 +121,7 @@ contact_links = [
 ## Social
 ############################
 
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+# Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = "EliOra_Logo_Final.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
@@ -200,10 +200,10 @@ plugins_js  = []
 ############################
 [comments]
   # Comment provider:
-  #   0: Disabled
-  #   1: Disqus (https://disqus.com)
-  #   2: Commento (https://commento.io)
-  engine = 0
+  #   ""
+  #   disqus (https://disqus.com)
+  #   commento (https://commento.io)
+  provider = ""
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -223,10 +223,10 @@ plugins_js  = []
 ############################
 [search]
   # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  # ""
+  # wowchemy (built-in)
+  # algolia (https://www.algolia.com)
+  provider = "wowchemy"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -250,11 +250,11 @@ plugins_js  = []
   #   https://www.mapbox.com/studio/account/tokens
   #
   # Map provider:
-  #   0: No map
-  #   1: Google Maps
-  #   2: OpenStreetMap (Mapnik)
-  #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  #   ""No map
+  #   google
+  #   mapnik
+  #   mapbox
+  provider = "mapbox"
   api_key = ""
   zoom = 11
 
@@ -264,3 +264,17 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+
+# Content Management System
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = false
+ branch = "master"
+  
+# Icon Pack Extensions
+[icon.pack]
+ ai = false  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
+
+[breadcrumb]
+  page_types = {book = true}
+

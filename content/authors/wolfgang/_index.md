@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Wolfgang Prämaßing
+title: Wolfgang Prämaßing
 
 # Username (this should match the folder name)
 authors:
