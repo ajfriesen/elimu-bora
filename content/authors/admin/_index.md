@@ -44,7 +44,7 @@ bio: Ich unterstütze den Verein bei allen Fragen rund um die IT (Website, Mail 
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:andre.friesen@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -54,6 +54,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ajfriesen
+- icon: link
+  icon_pack: fab
+  link: https://www.ajfriesen.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/andrej-friesen/
+- icon: xing-square
+  icon_pack: fab
+  link: https://www.xing.com/profile/Andrej_Friesen3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
