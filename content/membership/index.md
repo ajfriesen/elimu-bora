@@ -6,13 +6,13 @@ share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/img/` folder).
+# Optional header image (relative to `static/media/` folder).
 # header:
 #   caption: "asdf"
 #   image: "boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg"
 ---
 
-{{< figure library="false" src="boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" title="Schaukel mit" lightbox="true" >}}
+{{< figure src="boy-wearing-blue-shirt-sitting-on-swing-1686467.jpg" caption="Schaukel mit">}}
 
 Das ist ganz einfach:
 {{% staticref "files/Mitgliedsantrag.pdf" "newtab" %}}Hier{{% /staticref %}} findest du den Mitgliedsantrag zum herunterladen, ausfüllen und zurück schicken.
@@ -51,7 +51,7 @@ Bei Fragen dazu wende dich jederzeit gerne an elioratanzania@gmail.com. Dort kan
 4. Du erhälst von uns zeitnah eine Bestätigung deiner Mitgliedschaft
 
 
-{{% alert note %}}
+{{% callout note %}}
 Zum bearbeiten des PDFs kannst du am besten den kostenlosen [Adobe Reader](https://get.adobe.com/de/reader/) nutzen. Einfach herunterladen und unseren Mitgliedsantrag damit öffnen, ausfüllen und unterschreiben.
-{{% /alert %}}
+{{% /callout %}}
 
