@@ -50,8 +50,23 @@ subtitle = ""
  css_class = ""
 +++
 
-Der Verein EliOra Tanzania wurde 2020 in Köln gegründet. EliOra ist eine Abkürzung für den Kiswahili Begriff "Elimu Bora", zu deutsch "gute Bildung", und setzt sich gemeinnützig für verschiedene Projekte in Tanzania/ Ostafrika ein. Der Fokus liegt hierbei nicht nur auf der Schulbildung im klassischen Sinn, sondern soll viel weitreichender als "Bildung als Lebensgrundlage" verstanden werden. Neben den schon früher
-unterstützten Schulprojekten soll die Wissensvermittlung auf den Bereich der erneuerbaren Energien (unabhängige Stromversorgung durch Solarzellen) , die lokale Naturkunde und die Aus- und Weiterbildung im Gesundheitswesen erweitert werden. 
+Der Verein EliOra Tanzania Hand in Hand e.V. wurde 2020 in Köln gegründet. EliOra ist eine Abkürzung für den Kiswahili Begriff "Elimu Bora", zu deutsch "gute Bildung", und setzt sich gemeinnützig für verschiedene Bildungsprojekte in Tanzania/ Ostafrika ein. Der Fokus liegt hierbei nicht nur auf der Schulbildung im klassischen Sinn, sondern soll viel weitreichender als "Bildung als Lebensgrundlage" verstanden werden. Neben den schon vor der Gründung unterstützten Schulprojekten, soll die Wissensvermittlung auf den Bereich der lokalen Naturkunde und die Aus- und Weiterbildung im Gesundheitswesen erweitert werden. 
 
 
 Durch die langjährige Verbindung nach Mashati am Fuße des Kilimanjaro und die Initialzündung zur Unterstützungsidee im Jahr 2013, ist das Vertrauensverhältnis zu den örtlichen Organisationen über die Zeit stabil gewachsen.
+{{< spoiler text="Hier erfährst du mehr zur Entstehung des Vereins" >}}
+Mashati, Tanzania. Das Dorf am Fuße des Kilimanjaro ist der Ort, wo der Grundstein für die Zusammenarbeit gelegt wurde und den ein Mitglied von EliOra ihr Heimatdorf nennen darf. 2013 schlugen dann zwei Vorstandsmitglieder, motiviert durch ihr Afrikanistikstudium, die Brücke in das Dorf, um ihre Sprachkenntnisse in Kiswahili auszubauen.
+Sie ebneten den Weg für die seitdem bestehende Freundschaft.
+Daraus resultierend folgte 2014 ein weiterer Besuch:
+Mit Fördermitteln der Jugendstiftung Morgernsterne reisten Jugendliche der CAJ Schäl Sick für 3 Wochen nach Tanzania um das Land, die Menschen, die Lebensweisen und Kulturen kennen zu lernen, aber auch um zu helfen.
+
+Ziel der Reise war es, im Sinne eines Workcamps in zwei verschiedenen Schulen (Kirua Rombo Primary School & Star High School in Mbuguni) durch die Arbeit der Jugendlichen mit anzupacken, um gemeinsam die (Lern-) Situation vor Ort zu verbessern. Im Gegenzug hatten die sie die Chance, das Bildungssystem und die tanzanische Kultur und Natur näher kennenzulernen.
+
+Nur wenig später (2016) kamen weitere helfende Hände (u.a durch Eine Welt Gruppe und CAJ Schäl Sick), um beim Ausbau und der Ausstattung der Chemie-, Physik- und Biologielabore zu unterstützen. Deren Fertigstellung und Nutzung gilt mittlerweile als Vorzeigeprojekt in der Region.
+
+Durch zusätzliches privates Engagement einiger EliOra Mitglieder gelang die Bohrung eines Brunnens im Haruma Health Institut in Rhombo. Die Versorgung dieses Instituts mit fließendem Wasser (Trinkwasser) wurde damit gesichert. In 2018 wurde die Bibliothek ausgebaut und weiter ausgestattet. Seitdem gibt EliOra Mitglied Dr.Britt Hornei regelmäßig als Ärztin vor Ort Unterricht im Bereich Mikrobiologie und Infektionskontrolle. 
+
+2018/2019 folgten Projekte in Zusammenarbeit mit "Ingenieure ohne Grenzen", die sich um eine stabile Stromversorgung einiger Secondary Schools im Bezirk Rhombo kümmerten, sowie die Wasserqualität aus Brunnen vor Ort prüften.
+
+Seit 2013 ermöglichen viele Freiwillige & private Spender die Zusammenarbeit mit Schulen und Bildungseinrichtungen in Mashati/Rombo und etablierten eine sehr vertrauensvolle Basis unter anderem zu Stephen Moshi, einem pensionierten Schul-Bezirksleiter aus Mashati.
+{{< /spoiler >}}
