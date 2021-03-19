@@ -1,5 +1,5 @@
 ---
-title: Wildlife Project Nilimishe
+title: Wildlife Project Nielimishe
 summary: Schüler_innen lernen die eigene Natur kennen
 tags:
 date: "2020-08-06T00:00:00Z"
@@ -9,7 +9,7 @@ draft: false
 external_link: ""
 
 image:
-  caption: Wildlife Project Nilimishe
+  caption: Wildlife Project Nielimishe
   focal_point: Smart
 
 links:
@@ -29,4 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-Bei vielen Touristen ist Tanzania vor allem aufgrund der spektakulären Tier und Pflanzenwelt bekannt und beliebt. Die Einheimische Bevölkerung hat allerdings selten die Mittel, die eigene Natur in Wildreservaten oder Parks kennenzulernen. Wir unterstützen daher das örtliche Projekt Nilimishe, welches Guides während der Nebensaison in Schulen vermittelt, um dort ihr Praxis- und Fachwissen an die Schüler*Innen weiterzugeben.
+Bei vielen Touristen ist Tanzania vor allem aufgrund der spektakulären Tier und Pflanzenwelt bekannt und beliebt. Die Einheimische Bevölkerung hat allerdings selten die Mittel, die eigene Natur in Wildreservaten oder Parks kennenzulernen. Wir unterstützen daher das örtliche Projekt Nielimishe, welches Guides während der Nebensaison in Schulen vermittelt, um dort ihr Praxis- und Fachwissen an die Schüler*Innen weiterzugeben.
+
+
