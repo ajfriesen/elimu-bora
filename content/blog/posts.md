@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Die neusten EliOra Blogartikel"
-subtitle = ""
+subtitle = "Hier kannst du ausführliche Beiträge einzelner Mitglieder lesen"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
