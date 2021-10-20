@@ -55,7 +55,7 @@ social:
   icon_pack: fab
   link: https://github.com/ajfriesen
 - icon: link
-  icon_pack: fab
+  icon_pack: fas
   link: https://www.ajfriesen.com/
 - icon: linkedin
   icon_pack: fab
