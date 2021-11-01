@@ -4,7 +4,7 @@ summary: Gestaltung eines Ausstellungsraumes zum Thema Schulbildung um die Jahrh
 tags:
 - Demo
 date: "2020-08-06T00:00:00Z"
-draft: true
+draft: false
 
 
 # Optional external URL for project (replaces project detail page).
