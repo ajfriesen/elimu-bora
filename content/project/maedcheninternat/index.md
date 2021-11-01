@@ -36,5 +36,5 @@ Abhängigkeiten durch ihre eigene Armut ausgeliefert sind. Mashati ist hier leid
 
 So ist eines der Projekte, dem sich EliOra Tanzania nach intensiven Gesprächen mit Lehrerinnen und Lehrern und der örtlichen Schulleitung angenommen hat, der Bau eines Mädcheninternats auf dem Gelände der Mashati Secondary School. Eine sichere Übernachtungsmöglichkeit schafft die Grundlage, dass die Mädchen regelmäßig am Unterricht teilnehmen können, vor Übergriffen auf einsamen Wegen geschützt sind und so Schwangerschaften durch Vergewaltigung im Mädchenalter vermieden werden. Im Mädcheninternat auf dem Gelände der Mashati Secondary School können die Mädchen unter der Woche schlafen, essen
 und ungestört lernen.
-Gute, gesicherte, ausreichend lange Bildungsmöglichkeiten schaffen die Voraussetzungen für ein eigenverantwortliches Leben der Mädchen und jungen
+Gute, gesicherte, ausreichend lange Bildungsmöglichkeiten schaffen die Voraussetzungen für einen Bildungsabschluss und ein eigenverantwortliches Leben der Mädchen und jungen
 Frauen.

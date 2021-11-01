@@ -1,5 +1,5 @@
 ---
-title: Haruma Health Training Institut /Nurses School Rhombo
+title: Huruma Health Training Institut /Nurses School Rhombo
 summary: Regelmäßige Besuche als Gastdozent*in und Unterstützung im fachlichen Wissensauf- und Ausbau
 tags:
 date: "2021-02-28T00:00:00Z"
