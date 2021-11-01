@@ -9,7 +9,7 @@ draft: false
 external_link: ""
 
 image:
-  caption: Britt Horneis Besuch am Haruma Health Training Center
+  caption: Britt Horneis Besuch am Huruma Health Training Center
   focal_point: Smart
 
 links:
